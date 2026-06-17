@@ -52,4 +52,3 @@ The experiments show that Spark DataFrames consistently outperform Spark RDDs wh
 ## License
 
 Academic project developed for the Big Data Analytics course.
-Performance comparison between Apache Spark RDDs and DataFrames using the Online Retail dataset.
