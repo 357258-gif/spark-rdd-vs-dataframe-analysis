@@ -51,13 +51,13 @@ File included in this repository:
 
 ## Repository Contents
 
-- spark_rdd_vs_dataframe.ipynb : Main notebook
-- online_retail.zip : Dataset
-- README.md : Project documentation
+- `spark_rdd_vs_dataframe.ipynb` : Main notebook containing the Spark RDD and DataFrame experiments.
+- `online_retail.zip` : Online Retail dataset used for the analysis.
+- `README.md` : Project documentation and execution instructions.
 
 ## Results
 
-The experiments show that Spark DataFrames consistently outperform Spark RDDs while producing identical analytical results.
+The experiments demonstrated that Spark DataFrames consistently achieved lower execution times than Spark RDDs for both analytical tasks. Despite the performance difference, both implementations produced identical analytical results, confirming the effectiveness of DataFrames for large-scale data processing workloads.
 
 ## License
 
