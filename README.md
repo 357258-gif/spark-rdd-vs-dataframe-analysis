@@ -63,6 +63,12 @@ File included in this repository:
 
 The experiments demonstrated that Spark DataFrames consistently achieved lower execution times than Spark RDDs for both analytical tasks. Despite the performance difference, both implementations produced identical analytical results, confirming the effectiveness of DataFrames for large-scale data processing workloads.
 
+## Performance Comparison
+
+The figure below summarizes the execution time comparison between Spark RDDs and DataFrames.
+
+![RDD vs DataFrame Comparison](rdd_dataframe_comparison.png)
+
 ## License
 
 Academic project developed for the Big Data Analytics course.
