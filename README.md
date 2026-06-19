@@ -4,6 +4,10 @@
 
 Rihem Belgacem
 
+Master's Degree in Computer Science
+
+Big Data Analytics Project
+
 ## Project Description
 
 This project compares the performance of Apache Spark RDDs and DataFrames using the Online Retail dataset.
