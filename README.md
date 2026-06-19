@@ -32,12 +32,22 @@ File included in this repository:
 
 - online_retail.zip
 
+## Installation
+
+1. Clone or download this repository.
+2. Open the notebook `spark_rdd_vs_dataframe.ipynb` in Google Colab.
+3. Upload the dataset file `online_retail.zip`.
+4. Run the PySpark installation cell (`pip install pyspark`).
+5. Run the Spark configuration cells to create the Spark session.
+6. Execute the remaining notebook cells in order.
+
 ## Running the Project
 
-1. Open the notebook in Google Colab.
-2. Upload and extract the dataset if necessary.
-3. Execute all notebook cells in order.
-4. Review the results and execution time comparisons.
+1. Execute the dataset loading cells.
+2. Run the RDD experiments for country ranking and product ranking.
+3. Run the DataFrame experiments for the same analytical tasks.
+4. Compare the execution times reported by both implementations.
+5. Review the generated results and performance analysis.
 
 ## Repository Contents
 
